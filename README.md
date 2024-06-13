@@ -1,1 +1,1 @@
-# cypresstest
+# Running the project
